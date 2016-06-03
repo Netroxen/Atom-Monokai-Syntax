@@ -1,7 +1,7 @@
 {
   "name": "atom-monokai-syntax",
   "theme": "syntax",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "An enhanced version of Kevinsawicki's Monokai syntax theme for Atom.",
   "keywords": [
     "syntax",
